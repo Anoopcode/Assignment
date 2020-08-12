@@ -1,0 +1,17 @@
+
+.default{
+    background-color: blue;
+    color: white;
+}
+
+.default:hover{
+    background-color: grey;
+}
+
+tr{
+    background-color:green;
+}
+
+tr:hover{
+    background-color: yellow;
+}
